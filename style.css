@@ -1,0 +1,57 @@
+.banner {
+    background: url("WhatsApp Image 2024-09-26 at 19.20.52_50dfd671.jpg")
+     no-repeat center center;
+background-size: cover;
+padding-top: 20%;
+padding-bottom: 20%;
+color:#fff;
+}
+
+
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #0a0a0a;
+    background-color: #8b06f8;
+}
+.lingkaran svg{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 31%;
+}
+
+.crop-img{
+    object-fit: cover;
+}
+.owner img{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border: 10px solid #000000;
+}
+
+a.sosial {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #ffffff;
+    border-radius: 50%;
+    background-color: #000000;
+    line-height: 35px;
+}
+
+.client-img {
+    height: auto; 
+    max-height: 50px;
+}
+.kontak {
+    background: url("wallpaperflare.com_wallpaper cat.jpg");
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #fff;
+}
